@@ -1,3 +1,5 @@
+package Lesson16;
+
 import java.util.Locale;
 
 public class Test6 {

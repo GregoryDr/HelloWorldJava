@@ -1,3 +1,5 @@
+package Lesson16;
+
 public class Test8 {
     public static void main(String[] args) {
         String s1 = "Чтоб мудро жизнь прожить, знать надобно немало," +
