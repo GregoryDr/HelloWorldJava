@@ -1,6 +1,6 @@
 package Lesson18;
 
-public class StringNestedLoop {
+public class  StringNestedLoop {
 
     public static void showArray(String[][] array) {
         System.out.print("{  ");
